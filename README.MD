@@ -18,7 +18,7 @@
 - Cucumber
 - @bahmutov/cypress-esbuild-preprocessor dependency 
 - @badeball/cypress-cucumber-preprocessor dependency
-- @badeball/cypress-cucumber-preprocessor/esbuild
+
 
 ## installation: 
 
@@ -40,19 +40,14 @@ npm install @bahmutov/cypress-esbuild-preprocessor
 
 npm install @badeball/cypress-cucumber-preprocessor
 
-- Install @badeball/cypress-cucumber-preprocessor dependency :
 
-npm install @badeball/cypress-cucumber-preprocessor/esbuild
-
-
-Referências:
+References:
 
 - [Cucumber for preprocesso](https://github.com/badeball/cypress-cucumber-preprocessor "Cucumber")
 - [Esbuild for preprocessor](https://github.com/bahmutov/cypress-esbuild-preprocessor "Cucumber")
-- [Cucumber for esbuild](@badeball/cypress-cucumber-preprocessor "Cucumber")
 
 
-### Arquitetura - Bibliotecas utilizadas
+### Architecture - Libraries used
 
 In this project, Cypress was used to automate browser actions and Cucumber to write the BDD features.
 
