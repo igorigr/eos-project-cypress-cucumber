@@ -74,8 +74,9 @@ In this project, Cypress was used to automate browser actions and Cucumber to wr
 
 ### About the project
 
+- This project is about registering the participant's personal data
 - Step 1 you must log into the system using email and password credentials and
-- Step 2 crie um novo projeto "Solar PV", como um vendedor
+- Step 2 create a new project "Solar PV" as a seller
 
 
 ### How to execute the Project
