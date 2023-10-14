@@ -1,0 +1,13 @@
+{
+    "json":{
+        "enabled": false,
+        "output": "jsonreport/test.json"
+    },
+    "stepDefinitions":[
+        "[filepath]/**/*.{js,ts}",
+        "[filepath].{js,ts}",
+        "cypress/support/step_definitions/*.{js,ts}"
+    ],
+    "cucumberautocomplete.steps": [ "cypress/support/step_definitions/*.{js,ts}"],
+    "cucumberautocomplete.syncfeatures": "cypress/e2e/**/*.feature"
+}
