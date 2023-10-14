@@ -47,7 +47,9 @@ npm install @badeball/cypress-cucumber-preprocessor/esbuild
 
 Referências:
 
-- [Cucumber para Ruby](https://cucumber.io/docs/installation/ruby/ "Cucumber")
+- [Cucumber for preprocesso](https://github.com/badeball/cypress-cucumber-preprocessor "Cucumber")
+- [Esbuild for preprocessor](https://github.com/bahmutov/cypress-esbuild-preprocessor "Cucumber")
+- [Cucumber for esbuild](@badeball/cypress-cucumber-preprocessor "Cucumber")
 
 
 ### Arquitetura - Bibliotecas utilizadas
